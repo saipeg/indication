@@ -1,6 +1,6 @@
 package com.andrey;
 
-class Indication {
+class Sign {
     public static int assertIndication(int i) {
         if (i < 0) {
             i = -1;
